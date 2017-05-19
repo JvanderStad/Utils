@@ -12,7 +12,7 @@
 
 ![Sample](Screenshot2.jpg)
 
-- Chrome browser will open with a new PR with current branch -> master
+- Chrome browser will open with a new PR with current branch :arrow_forward: master
 
 ![Sample](Screenshot3.jpg)
 
