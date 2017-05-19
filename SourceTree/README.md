@@ -1,6 +1,6 @@
 # Create a pullrequest on Visual Studio Team Services (VSTS) from SourceTree #
 
-- Copy pr.bat and pr.ps1 to a folder on you machine
+- Copy pr.bat and pr.ps1 to a folder on your machine
 
 - Create a custom action in SourceTree:
 
