@@ -2,11 +2,11 @@
 
 - Copy pr.bat and pr.ps1 to a folder on your machine
 
-- Create a custom action in SourceTree:
+- Create a custom action in SourceTree
 
 ![Sample](Screenshot1.jpg)
 
-- On a random commit rightclick
+- On a random commit right click
 
 ![Sample](Screenshot2.jpg)
 
@@ -14,4 +14,4 @@
 
 ![Sample](Screenshot3.jpg)
 
-- :bulb: pro tip: If you add the pr.bat to a global path, you can also run it from the commandline
+:bulb: pro tip: If you add the pr.bat to a global path, you can also run it from the commandline
