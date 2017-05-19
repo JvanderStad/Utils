@@ -14,4 +14,5 @@
 
 ![Sample](Screenshot3.jpg)
 
-:bulb: pro tip: If you add the pr.bat to a global path, you can also run it from the commandline
+## Pro tip
+If you add the pr.bat to a global path, you can also run it from the commandline
