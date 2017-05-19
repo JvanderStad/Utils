@@ -1,5 +1,7 @@
 # Create a pullrequest on Visual Studio Team Services (VSTS) from SourceTree #
 
+## :floppy_disk: Setup
+
 - Copy [pr.bat](pr.bat) and [pr.ps1](pr.ps1) to a folder on your machine
 
 - Create a custom action in SourceTree
