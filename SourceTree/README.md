@@ -14,5 +14,5 @@
 
 ![Sample](Screenshot3.jpg)
 
-## Pro tip
+## :bulb: Pro tip
 If you add the pr.bat to a global path, you can also run it from the commandline
