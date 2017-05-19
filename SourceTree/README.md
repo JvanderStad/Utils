@@ -1,4 +1,4 @@
-# Create a pullrequest on Visual Studio Team Services (VSTS) from SourceTree #
+# Create a Pull Request on Visual Studio Team Services (VSTS) from SourceTree #
 
 ## :floppy_disk: Setup
 
