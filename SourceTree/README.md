@@ -8,9 +8,8 @@
 
 ![Sample](Screenshot2.jpg)
 
-- :trollface:
+- Chrome browser will open with a new PR with current branch -> master
 
 ![Sample](Screenshot3.jpg)
 
-
-:bulb: If you add the pr.bat to a global path, you can also run it from the commandline
+- :bulb: If you add the pr.bat to a global path, you can also run it from the commandline
