@@ -10,6 +10,7 @@
 
 - :trollface:
 
+![Sample](Screenshot3.jpg)
 
 
-If you add the pr.bat to a global path you can also run it from the commandline :)
+:bulb: If you add the pr.bat to a global path, you can also run it from the commandline
