@@ -1,4 +1,4 @@
 # Utilities
 
 ## SourceTree
-- [Create a pullrequest on Visual Studio Team Services (VSTS) from SourceTree](SourceTree)
+- [Create a Pull Request on Visual Studio Team Services (VSTS) from SourceTree](SourceTree)
